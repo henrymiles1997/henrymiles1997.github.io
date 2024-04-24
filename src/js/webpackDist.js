@@ -1,4 +1,4 @@
-import _ from "lodash";
+import _ from "../../node_modules/lodash";
 import "../styles/stylesheet.css";
 import "./worldPack";
 
