@@ -1,4 +1,5 @@
 import { World } from "./worldConstruction.js";
+import { logoTransform } from "./svg.js";
 
 function main() {
 
@@ -8,6 +9,8 @@ function main() {
 
     world.render();
 
+    logoTransform();
+
 }
 
-export default main();
+export default main()

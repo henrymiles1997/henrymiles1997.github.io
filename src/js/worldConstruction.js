@@ -31,6 +31,7 @@ class World {
 
     }
 
+
     render() {
 
         renderer.render(scene, camera);
