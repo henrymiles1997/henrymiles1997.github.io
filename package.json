@@ -10,7 +10,10 @@
   "keywords": [],
   "author": "me",
   "dependencies": {
+    "@types/animejs": "^3.1.12",
+    "animejs": "^3.2.2",
     "lodash": "^4.17.21",
+    "motion": "^10.17.0",
     "three": "^0.144.0"
   },
   "devDependencies": {
